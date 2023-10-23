@@ -10,13 +10,13 @@ app.config['SQLALCHEMY_DATABASE_URI'] = "mysql://p3:Mtmqn584@34.136.218.122:3306
 
 
 # Create a SQLAlchemy instance
-db = SQLAlchemy(app)
+# db = SQLAlchemy(app)
 
 
 # Define a simple database model (optional)
-class Course(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(50))
+# class Course(db.Model):
+#     id = db.Column(db.Integer, primary_key=True)
+#     name = db.Column(db.String(50))
 
 
 @app.route('/')

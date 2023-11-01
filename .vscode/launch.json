@@ -1,0 +1,28 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "vscode_340",
+            "cwd": "flutter_part/vscode_340",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "vscode_340 (profile mode)",
+            "cwd": "flutter_part/vscode_340",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "vscode_340 (release mode)",
+            "cwd": "flutter_part/vscode_340",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

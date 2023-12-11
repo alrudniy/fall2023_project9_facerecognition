@@ -1,0 +1,9 @@
+Flask==3.0.0
+deepface==0.0.80
+Deprecated==1.2.14
+fire==0.5.0
+gdown==4.7.1
+gunicorn==21.2.0
+keras==2.15.0
+mtcnn==0.1.1
+tqdm==4.66.1
